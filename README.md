@@ -1,16 +1,14 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**giuseppeg/giuseppeg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Giuseppe and I’m a JavaScript and Web Engineer with a decade of industry experience 👴🏼
 
-Here are some ideas to get you started:
+Currently I am [available for hire](https://giuseppegurgone.com/hire-me). 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My area of interest are: 
+
+- JavaScript infrastructure: tooling, frameworks and libraries
+- Design Systems and CSS architecture
+- Leadership and management roles
+
+
+📫 [DM me on Twitter](https://twitter.com/giuseppegurgone).
