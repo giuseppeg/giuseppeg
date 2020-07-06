@@ -2,13 +2,12 @@
 
 My name is Giuseppe and I’m a JavaScript and Web Engineer with a decade of industry experience 👴🏼
 
-Currently I am [available for hire](https://giuseppegurgone.com/hire-me). 
+Currently I am [available for hire](https://giuseppegurgone.com/hire-me) (remote-only, preferabily contracts or 32h/week). 
 
-My area of interest are: 
+My areas of interest are: 
 
 - JavaScript infrastructure: tooling, frameworks and libraries
 - Design Systems and CSS architecture
 - Leadership and management roles
-
 
 📫 [DM me on Twitter](https://twitter.com/giuseppegurgone).
