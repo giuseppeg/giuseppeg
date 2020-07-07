@@ -2,7 +2,7 @@
 
 My name is Giuseppe and I’m a JavaScript and Web Engineer with a decade of industry experience 👴🏼
 
-Currently I am [available for hire](https://giuseppegurgone.com/hire-me) (remotely, preferabily contracts or 32h/week). 
+Currently I am [available for hire](https://giuseppegurgone.com/hire-me) (remotely, preferabily contracts or [32h/week](https://twitter.com/giuseppegurgone/status/1273292564863606784)). 
 
 My areas of interest are: 
 
