@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
 
 My name is Giuseppe and I’m a JavaScript and Web Engineer with a decade of industry experience 👴🏼
 
