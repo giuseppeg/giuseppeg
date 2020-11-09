@@ -1,16 +1,22 @@
-## Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
+Hello!
 
-My name is Giuseppe and I’m a JavaScript and Web Engineer with a decade of industry experience 👴🏼
+My name is **Giuseppe** and I am a software engineer with a decade of industry experience. 
 
-Currently I am available for hire (remotely, freelance contracts). 
+I have done highly impactful contributions to projects like SUIT CSS, Next.js, React Native for Web and [many other projects](https://github.com/giuseppeg). My most successful open source projects are [₪ xm](https://twitter.com/giuseppegurgone/status/1305851405660549122) and Vercel's styled-jsx which I co-authored.
 
-My areas of interest are: 
+Nowadays I work as a freelancer JavaScript and Web Engineer and accept sponsorships to work on open source software.
 
-- JavaScript infrastructure: tooling, frameworks and libraries
-- React development
-- Design Systems and CSS architecture
-- Leadership and management roles
+### How can I help
 
-💗 You can [sponsor my work](https://github.com/sponsors/giuseppeg).
+My areas of expertise are:
 
-📫 [DM me on Twitter](https://twitter.com/giuseppegurgone).
+* 🏗 JavaScript infrastructure, tools and workflows
+* ⏱ Performance audits and optimization of React applications and libraries
+* 🧩  Babel plugins development and AST transformations
+* 👩‍🎨  Scaling Design Systems
+* 💅 CSS and CSS-in-JS
+* 👨‍🏫 Mentoring and teaching 
+
+If you need support with any of the technologies mentioned above please 📫 [contact me](https://twitter.com/giuseppegurgone) or consider 💗[donating](https://github.com/sponsors/giuseppeg) right away! 
+
+Check out [my site](https://giuseppegurgone.com).
