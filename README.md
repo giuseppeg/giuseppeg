@@ -17,6 +17,6 @@ My areas of expertise are:
 * 💅 CSS and CSS-in-JS
 * 👨‍🏫 Mentoring and teaching, productivity & engineering processes
 
-If you need support with any of the technologies mentioned above please 📫 [contact me](https://ggurgone.com) or consider 💗[donating](https://github.com/sponsors/giuseppeg) right away! 
+If you need support with any of the technologies mentioned above please 📫 [contact me](http://ggurgone.com) or consider 💗[donating](https://github.com/sponsors/giuseppeg) right away! 
 
 Check out [my site](https://giuseppegurgone.com).
