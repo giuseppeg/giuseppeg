@@ -1,1 +1,1 @@
-https://giuseppegurgone.com/contact
+giuseppegurgone.com/contact
