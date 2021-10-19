@@ -1,1 +1,1 @@
-giuseppegurgone.com/contact
+[Say hi](https://giuseppegurgone.com/contact).
